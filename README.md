@@ -10,7 +10,7 @@ Through this analysis, we aim to provide healthcare professionals with actionabl
 
 This project combines exploratory data analysis, predictive modeling, and decision tree analysis to comprehensively address the issue of medical appointment no-shows and their underlying causes.
   
-**Check the running Jupyter notebook : ** https://www.kaggle.com/code/osvaldovaldivia/medical-appointment-analysis-eda-classificator
+**Check the running Jupyter notebook :** https://www.kaggle.com/code/osvaldovaldivia/medical-appointment-analysis-eda-classificator
 
 ## Table of Contents
 
